@@ -6,6 +6,6 @@ This repository contains my **daily exercises and practical work** completed dur
 ## Daily Exercises
 
 📊 **Google Sheets:**  
-https://docs.google.com/spreadsheets/d/19sF9QtBLlStgpofh0Ydbtvb1-1E00cAOvN5gqW7uq98/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/19sF9QtBLlStgpofh0Ydbtvb1-1E00cAOvN5gqW7uq98/edit?usp=sharing 
 
 The sheet will be **updated daily** with the exercises completed during the training.
