@@ -49,3 +49,13 @@ https://logeshna5-1789709312654.atlassian.net/jira/software/projects/T6J/boards/
 📊 **Exercise Sheet:**  
 
 https://docs.google.com/spreadsheets/d/1OXSw93fh-Oo1JfFcZclVCatacw2Rcxz_jIeZ_HALdeM/edit?usp=sharing
+
+### 23.09.2026 – Python Exercises
+
+**Work Completed:**
+- Practiced basic Python programming.
+- Completed 3 Python exercises.
+- Practiced input handling, loops, conditions, strings, and number conversion.
+
+📁 **Python Exercises:**  
+
