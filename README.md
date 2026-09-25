@@ -60,3 +60,15 @@ https://docs.google.com/spreadsheets/d/1OXSw93fh-Oo1JfFcZclVCatacw2Rcxz_jIeZ_HAL
 📁 **Python Exercises:**  
 
 https://github.com/Logesh051/Testing/tree/main/23.9.2026_Codes
+
+### 25.09.2026 – Python Problem Solving
+
+**Work Completed:**
+- Practiced Python problem-solving using real-world problem statements.
+- Solved problems involving lists, loops, conditions, strings, and dictionaries.
+- Practiced maximum subarray sum and employee skill grouping.
+- Completed the assigned Python exercises.
+
+🔗 **Google Colab:**  
+
+https://colab.research.google.com/drive/1CGF69AdWYlk3KPhf4_OhMO3Rbaa1B6Bq?usp=sharing
