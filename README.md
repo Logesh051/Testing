@@ -72,3 +72,20 @@ https://github.com/Logesh051/Testing/tree/main/23.9.2026_Codes
 🔗 **Google Colab:**  
 
 https://colab.research.google.com/drive/1CGF69AdWYlk3KPhf4_OhMO3Rbaa1B6Bq?usp=sharing
+
+
+## 📅 29.09.2026 – Training Tasks
+
+### 🐍 Python Assignments
+- Complete 10 Python Assignments
+- Practice Python basics, recursion, lambda, lists, strings, and dictionaries.
+
+https://colab.research.google.com/drive/1w0TSOse6nDvTisFXE2OmkGrf_seSr3G9?usp=sharing
+
+### ⚙️ Python Function Assignments
+- Complete 5 Function-based Assignments
+- Practice functions, parameters, return values, and recursion.
+
+### 🔢 NumPy Assignments
+- Complete 15 NumPy Assignments
+- Practice NumPy arrays, operations, indexing, slicing, and basic functions.
