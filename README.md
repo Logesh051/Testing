@@ -82,10 +82,18 @@ https://colab.research.google.com/drive/1CGF69AdWYlk3KPhf4_OhMO3Rbaa1B6Bq?usp=sh
 
 https://colab.research.google.com/drive/1w0TSOse6nDvTisFXE2OmkGrf_seSr3G9?usp=sharing
 
-### ⚙️ Python Function Assignments
-- Complete 5 Function-based Assignments
-- Practice functions, parameters, return values, and recursion.
+---
 
-### 🔢 NumPy Assignments
-- Complete 15 NumPy Assignments
-- Practice NumPy arrays, operations, indexing, slicing, and basic functions.
+## 📅05.10.2026 – Selenium Automation – Task 1
+
+**Work Completed:**
+- Learned the basics of **Selenium WebDriver**.
+- Automated the **SauceDemo** login process.
+- Entered valid username and password.
+- Automated the Login button click.
+- Retrieved and printed all **6 product names** from the Products page.
+- Practiced Selenium locators such as `By.ID` and `By.CLASS_NAME`.
+- Practiced `find_element()`, `find_elements()`, `send_keys()`, `click()`, and `.text`.
+
+🔗 **Task 1 Code:**  
+
