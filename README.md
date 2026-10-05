@@ -96,4 +96,4 @@ https://colab.research.google.com/drive/1w0TSOse6nDvTisFXE2OmkGrf_seSr3G9?usp=sh
 - Practiced `find_element()`, `find_elements()`, `send_keys()`, `click()`, and `.text`.
 
 🔗 **Task 1 Code:**  
-
+https://github.com/Logesh051/Testing/tree/main/05_10_2026_Selenium
