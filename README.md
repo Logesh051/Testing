@@ -97,3 +97,20 @@ https://colab.research.google.com/drive/1w0TSOse6nDvTisFXE2OmkGrf_seSr3G9?usp=sh
 
 🔗 **Task 1 Code:**  
 https://github.com/Logesh051/Testing/tree/main/05_10_2026_Selenium
+
+
+
+
+---
+
+### 📅06.10.2026 – Selenium Locators, Navigation, Web Form Testing – Assignment II
+
+**Task:**
+- Automate Amazon website using Selenium.
+- Login to Amazon.
+- Search for a product.
+- Open the selected product.
+- Add the product to cart.
+- Proceed to cart and checkout.
+
+🔗 **GitHub File:**  
