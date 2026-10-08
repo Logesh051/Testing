@@ -130,7 +130,7 @@ https://github.com/Logesh051/Testing/tree/main/06_10_2026
 
 ---
 
-### 08.10.2026 – Selenium Automation – Test Case Assignment
+### 07.10.2026 – Selenium Automation – Test Case Assignment
 
 **Task 1 – SauceDemo**
 - Automated the SauceDemo shopping workflow using Selenium.
@@ -149,3 +149,5 @@ https://github.com/Logesh051/Testing/tree/main/06_10_2026
 - Practiced double-click using ActionChains.
 
 🔗 **GitHub File:**  
+
+https://github.com/Logesh051/Testing#08102026--selenium-automation--test-case-assignment
