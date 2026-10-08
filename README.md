@@ -151,3 +151,23 @@ https://github.com/Logesh051/Testing/tree/main/06_10_2026
 🔗 **GitHub File:**  
 
 https://github.com/Logesh051/Testing#08102026--selenium-automation--test-case-assignment
+
+
+
+---
+
+### 08.10.2026 – Selenium Automation – XPath Assignment
+
+**Work Completed:**
+- Learned and practiced **XPath locators** in Selenium.
+- Practiced **Attribute XPath**.
+- Practiced `text()`, `contains()`, and `starts-with()`.
+- Practiced XPath operators `and` and `or`.
+- Practiced XPath axes such as `parent`, `ancestor`, `child`, and `following`.
+- Practiced XPath indexing to locate specific elements.
+- Used `find_elements()` to locate multiple input fields.
+- Automated the **Vinoth QA Academy Registration Form**.
+- Practiced radio button and dropdown selection using Selenium.
+- Verified successful form submission using XPath.
+
+🔗 **GitHub File:**  
