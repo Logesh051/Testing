@@ -124,3 +124,28 @@ https://github.com/Logesh051/Testing/tree/main/05_10_2026_Selenium
 🔗 **GitHub File:**  
 
 https://github.com/Logesh051/Testing/tree/main/06_10_2026
+
+
+
+
+---
+
+### 08.10.2026 – Selenium Automation – Test Case Assignment
+
+**Task 1 – SauceDemo**
+- Automated the SauceDemo shopping workflow using Selenium.
+- Performed login using valid credentials.
+- Added products to the cart.
+- Removed a product from the cart.
+- Navigated to the checkout page.
+
+
+### Task 2 – AutomationTesting
+
+- Automated alert handling using Selenium.
+- Handled OK/Cancel confirmation alerts.
+- Handled a prompt alert and entered text.
+- Practiced XPath locators and explicit waits.
+- Practiced double-click using ActionChains.
+
+🔗 **GitHub File:**  
