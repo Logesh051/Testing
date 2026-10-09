@@ -172,3 +172,24 @@ https://github.com/Logesh051/Testing#08102026--selenium-automation--test-case-as
 
 🔗 **GitHub File:**  
 https://github.com/Logesh051/Testing/tree/main/08_10_2026
+
+### 09.10.2026 – Selenium Automation – Web Tables Assignment
+
+**Website:** [AssertQA – Web Tables](https://assertqa.com/practice/webtables)
+
+**Work Completed:**
+- Used Selenium WebDriver with Python to automate web table operations.
+- Located and printed all table column headings using XPath.
+- Located the employee table using its ID.
+- Retrieved table data rows using CSS Selectors.
+- Printed the first employee record using `rows[0]`.
+- Printed the last employee record using `rows[-1]`.
+- Practiced locating table cells using the `TAG_NAME` locator.
+
+**Concepts Practiced:**
+- XPath and CSS Selectors
+- `find_element()` and `find_elements()`
+- HTML table structure: `th`, `tbody`, `tr`, and `td`
+- Python lists, indexing, and loops
+
+🔗 **GitHub File:**  
